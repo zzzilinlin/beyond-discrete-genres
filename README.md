@@ -8,5 +8,5 @@ sentence-level corpora (first batch collected in fall 2021; second batch collect
 * factuality
 ## fine tuing bert:
 - [wrapped-up functions](fine_tuning_bert/bertfunss.py)
-* [example code training](fine_tuning_bert/example_code_training.ipynb)
-+ [example code prediction](fine_tuning_bert/example_code_prediction.ipynb)
+* [example code - training](fine_tuning_bert/example_code_training.ipynb)
++ [example code - prediction](fine_tuning_bert/example_code_prediction.ipynb)
